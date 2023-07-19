@@ -1,0 +1,239 @@
+BME 118 - Final Presentation
+
+Presentation Grades
+Group 2- 40 + 17.5 = 57.5
+Group 3- 41  + 16.5 = 57.5
+Group 4- 40  + 16.5 = 56.5
+Group 5- 42 + 18 = 60
+Group 6- 42 + 17 = 59	
+
+
+Timeline
+12:00 - Intro (Me)
+* Extension on final paper
+* Grades
+    * Contact me about 0’s
+    * HW 4 - still a few left to grades
+    * Contact me about misgrading
+
+12:10 Group 2
+
+12:40 Group 3
+
+1:10 Group 4
+
+1:40 Group 5
+
+2:10 Group 6
+
+2:40 Closing (Me)
+* Survey
+* submit slides on canvas
+* Acknowledgments
+
+
+
+Questions
+* +0.5 - Anish Samb… - good catch noise is noise (group 2 mcmc)
+* 
+
+
+
+Presentation Rubric - 18pts
+Introduction - 2
+* Introducing topic
+* Provide background from field
+Methodology - 3
+* Clear explanation of stimulus pattern
+Analysis - 5
+* Original Analysis - 2
+* 5 different types of plots/tables - 2
+* Clear understanding of analysis done - 1
+Conclusion - 1
+* Summarize findings
+Professionalism - 7
+* 2 - Cleanliness of slides
+* 2 - Oration Quality
+* 1 - Dress Code
+* 1 - Latex equations
+* 1 - time
++2 extra credit - Eigen Decomposition of STTC
+
+
+
+Group 6 - 17/18pts
+?Why not correlationa matrix?
+Original analysis missing
+plot count
+* spike rasters
+* isi before after
+* table of comparing before/after neurons
+* corelation between 2 neurons
+* STTC
+
+Introduction - 2/2
+* Nice introduction, don’t have to describe tetanus toxin
+* Provide background from field
+* doesn’t get into scientific background
+Methodology - 3
+* Clearly stated stimulation pattern
+* verified spike raster plot
+Analysis - 4.5/5
+* Tell a story between correlation
+* Analysis lacking to other groups
+* Original Analysis - 2
+* 5 different types of plots/tables - 2
+* Clear understanding of analysis done - 1
+Conclusion - 1
+* Summarize findings
+Professionalism - 7
+* 2 - Cleanliness of slides
+* 2 - Oration Quality
+* 1/1 - Dress Code
+* 1/1 - Latex equations
+* 1 - time
++ extra credit - Eigen Decomposition of STTC
+
+
+Group 5 - 18/18pts
+Very well done, even with bad data
+Very clear well done analysis 
+graph count-
+* spike rasters
+* common neurons figures (my image)
+* neuronal even probability density
+* box plots
+* ISI
+* table of data for coefficient of variation
+* Eigen valuee spectrum
+
+Introduction - 2/2
+* nice background, state intendedexperiment
+*  state general beliefs in field and overview of biological phenomina
+Methodology - 3/3
+* Clear explanation of what went wrong
+* clearly stated protocol
+* showed stimulation pattern
+Analysis - 5/5
+* found common neurons
+* 
+* Original Analysis - 2
+* 5 different types of plots/tables - 2
+* Clear understanding of analysis done - 1
+Conclusion - 1
+* Summarize findings
+Professionalism - 7
+* 2/2 - Cleanliness of slides
+* 2/2 - Oration Quality
+* 1.25/1 - Everyone Dressed Code
+* 0/1 - ?no equations? Latex equations
+* 1 - time
++.5 looked at other dataset
++.5 eigenvalue decomposition of STTC
+
+
+Group 4- 16.5/18pts
+Graph count-.25
+* Graph of stim pattern
+* video of neurons firing
+* interesting selection tool created, looked at bursts up close
+    * look up close
+* fourier analysis, nice
+
+* cool gui stuff
+* Spent way too much time doing a literature review
+    * ?can they tie literature into their research?
+Introduction - 2/2
+* nice broud overview intro, nice summary figure
+* ?hebbian? - your doing tetanus?
+* gave good source
+Methodology - 3/3
+* nice graphic of protocol change
+* Said they’re doing tetanus
+* Clear explanation of stimulus pattern
+* ?strange analysis
+Analysis - 4/5
+* Deep analysis lagged behind other groups
+* Original Analysis - 2
+* 5 different types of plots/tables - 2
+* Clear understanding of analysis done - 1
+Conclusion - 1/1
+* Summarize findings
+Professionalism - 7
+* 2/2 - Cleanliness of slide, nice videos
+* 2/2 - Oration Quality 
+* 1/1 - Dress Code
+* 0/1 - no equations
+* 1 - time
+
+
+Group 3 clearly had mor impressive analysis that group 2, wonder if one should be graded up/down to compensate
+Group 3 - 16.5/18pts
+* graph count -
+    * 2 figures in methodology
+    *  K means
+    * DB Scan
+    * nice video
+* very nice visualization of DB-scan
+* very nice video
+* did very interesting (albeit wrong) analysis with cosine similarity
+Introduction - 1.5/2
+* nice intro showing where the music came from
+* introduced everyone
+* never did—- Provide background from field on their idea
+Methodology - 3/3
+* displayed stimualtion pattern
+* looked at signal to noise
+* no equations
+Analysis - 5/5
+* Original Analysis -  K means
+* 5 different types of plots/tables - 2
+* Clear understanding of analysis done - 1
+Conclusion - 1/1
+* able to understand their finding and results
+Professionalism - 7
+* 2 /2- Cleanliness of slides
+* 2.5/2 - Oration Quality - got a little lost of where slides were
+* 0/1 - no one dressed up
+* .5/1 - showed equations without latex, nicely written though
+* .5/1 time went over
++.25 extra credit - Eigen Decomposition of STTC, but don’t show what it means
++ .75 for extra analysis plots
+
+
+
+Group 2 - 17.5/18
+* graph count - 5 graphs
+    * regular spike rasters
+    * methodology histogram
+    * fft
+    * spike raster for data broken up
+    * sttc
+* clear explanation of intro & method
+* show latex
+* Provided references in intro, not in methodology
+* All group member talked
+Introduction - 2/2
+* provided sources
+Methodology - 3/3
+* Could have provided aa link to the reference material on Wiener proccess and gabor filter
+* Protocol and and General methodology both provided
+* verified stimulation pattern was correct
+Analysis - 5/5
+* verified patter was correct
+* Did original plot - power spectrum density (FFT)
+* Original Analysis - 2/2
+* 5 different types of plots/tables - 2/2
+* Clear understanding of analysis done - 1/1
+Conclusion - 1/1
+* Suggested good future studies
+Professionalism - 6/7
+* 1.5/2 - Cleanliness of slides (lots of text)
+* 2/2 - Oration Quality
+* 0.5/1 - Dress Code
+* 1/1 - Latex
+* 1/1 - time
++.25 extra credit - Eigen Decomposition of STTC
+
+
+
