@@ -1,9 +1,7 @@
 # WetAI Classroom Deployment
 Codespace deployment of the WetAI classroom platform
 
-##############################
-#####     Summary     ########
-##############################
+## Summary
 
 These folders contain all of the assignments used for BME 118. Each folder contains all the necessary code and data for students to complete the corresponding assignment. It is the folder you should distribute to students. However, before you release the assignment there is one folder for every assignment that you should delete. This folder is called Answers/ . It contains the rubric that you should to grade assignments, exemplary student submissions, and other tangenetial files that might be useful.
 
