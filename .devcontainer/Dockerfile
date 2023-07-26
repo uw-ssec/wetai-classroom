@@ -19,10 +19,11 @@ RUN if [ -f "/tmp/conda-tmp/environment.yml" ]; then umask 0002 && /opt/conda/bi
 #     hdf5-tools \
 #     time
 
-# Install additional packages
-# RUN python -m pip install --force-reinstall \
-#     numpy \
-#     jupyterlab-git
+# Install additional Python packages
+RUN pip install --no-cache-dir --upgrade pip && \
+    pip install --no-cache-dir \
+    numpy \
+    jupyterlab-git
 
 # The ADD command below downloads the latest commit information. If it has changed since the last build
 # the following layers will not be cached, if it hasn't changed the following layers will rebuild.
