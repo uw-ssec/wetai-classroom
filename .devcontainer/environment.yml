@@ -1,0 +1,4 @@
+name: wetai-env
+
+dependencies:
+- braingeneers==0.0.1
