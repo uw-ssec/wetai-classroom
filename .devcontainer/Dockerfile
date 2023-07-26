@@ -27,5 +27,6 @@ RUN python -m pip install --no-cache-dir --upgrade pip && \
 
 # The ADD command below downloads the latest commit information. If it has changed since the last build
 # the following layers will not be cached, if it hasn't changed the following layers will rebuild.
-ADD "https://api.github.com/repos/braingeneers/braingeneerspy/commits?per_page=1" /tmp/latest_braingeneers_commit
-RUN python -m pip install --force-reinstall --no-cache-dir git+https://github.com/braingeneers/braingeneerspy.git#egg=braingeneerspy[all]
+# ADD "https://api.github.com/repos/braingeneers/braingeneerspy/commits?per_page=1" /tmp/latest_braingeneers_commit
+# RUN python -m pip install --force-reinstall --no-cache-dir git+https://github.com/braingeneers/braingeneerspy.git#egg=braingeneerspy[all]
+RUN python -m pip install git+https://github.com/uw-ssec/braingeneerspy.git@update_repo#egg=braingeneerspy[data,iot,analysis,ml,hengenlab]
