@@ -22,7 +22,6 @@ RUN if [ -f "/tmp/conda-tmp/environment.yml" ]; then umask 0002 && /opt/conda/bi
 # Install additional Python packages
 RUN python -m pip install --no-cache-dir --upgrade pip && \
     python -m pip install --no-cache-dir \
-    numpy \
     jupyterlab-git
 
 # The ADD command below downloads the latest commit information. If it has changed since the last build
