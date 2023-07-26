@@ -14,6 +14,9 @@
 			"installTools": true,
 			"installJupyterlab": true,
 			"version": "latest"
+		},
+		"ghcr.io/devcontainers/features/common-utils:2": {
+      			"version": "latest"
 		}
 	},
 	"customizations": {
