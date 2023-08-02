@@ -27,7 +27,8 @@
 				// "ms-toolsai.jupyter-renderers"
 			]
 		}
-	}
+	},
+	"postCreateCommand": "sh .devcontainer/post_create.sh",
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
