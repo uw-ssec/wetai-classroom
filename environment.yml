@@ -1,9 +1,10 @@
 name: international-deploy
 channels:
   - conda-forge
+  - defaults
 dependencies:
   - python>=3.10
-  - glances
+  - jupyterlab-git
   - wget
   - curl
   - ncdu
@@ -11,7 +12,7 @@ dependencies:
   - rclone
   - awscli
   - hdf5tools
-  - jupyterlab-git
+  - pytables
   - pip
   - pip:
-    - --no-cache-dir git+https://github.com/uw-ssec/braingeneerspy.git@update_repo#egg=braingeneers[data,iot,analysis,ml,hengenlab]
+    - git+https://github.com/uw-ssec/braingeneerspy.git@update_repo#egg=braingeneers[data,iot,analysis,ml,hengenlab]
