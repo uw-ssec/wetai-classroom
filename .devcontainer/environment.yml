@@ -1,1 +1,15 @@
+name: international-deploy
 
+dependencies:
+  - python=3.11
+  - jupyterlab-git
+  - wget
+  - curl
+  - ncdu
+  - ffmpeg
+  - rclone
+  - awscli
+  - hdf5-tools
+  - time
+  - pip:
+    - git+https://github.com/uw-ssec/braingeneerspy.git@update_repo#egg=braingeneers[data,iot,analysis,ml,hengenlab]
