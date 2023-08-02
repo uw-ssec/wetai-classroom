@@ -12,5 +12,4 @@ dependencies:
   - hdf5-tools
   - time
   - pip:
-    - [--force-reinstall, --no-cache-dir]
-    - git+https://github.com/uw-ssec/braingeneerspy.git@update_repo#egg=braingeneers[data,iot,analysis,ml,hengenlab]
+    - --force-reinstall, --no-cache-dir git+https://github.com/uw-ssec/braingeneerspy.git@update_repo#egg=braingeneers[data,iot,analysis,ml,hengenlab]
