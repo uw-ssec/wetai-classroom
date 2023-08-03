@@ -2,8 +2,8 @@
 // README at: https://github.com/devcontainers/templates/tree/main/src/anaconda
 {
 	"name": "Anaconda (Python 3)",
-	"image": "mcr.microsoft.com/devcontainers/anaconda:0-3",
-	//"features": {
+	"image": "mcr.microsoft.com/devcontainers/anaconda:0-3"
+	// "features": {
 	//	"ghcr.io/devcontainers/features/anaconda:1": {
 	//		"version": "latest"
 	//	},
@@ -15,8 +15,8 @@
 	//	"ghcr.io/devcontainers/features/common-utils:2": {
       	//		"version": "latest"
 	//	}
-	//},
-	//"customizations": {
+	// },
+	// "customizations": {
 	//	"vscode": {
 	//		"extensions": [
 	//			"ms-azuretools.vscode-docker",
@@ -24,8 +24,8 @@
 	//			// "ms-toolsai.jupyter-renderers"
 	//		]
 	//	}
-	//},
-	"postCreateCommand": "sh .devcontainer/post_create.sh"
+	// },
+	// "postCreateCommand": "sh .devcontainer/post_create.sh"
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
