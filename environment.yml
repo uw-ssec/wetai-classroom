@@ -1,18 +1,18 @@
 name: international-deploy
-# channels:
-  # - conda-forge
+channels:
+  - conda-forge
   # - defaults
 dependencies:
-  # - python>=3.10
-  # - jupyterlab-git
-  # - wget
-  # - curl
-  # - ncdu
-  # - ffmpeg
-  # - rclone
-  # - awscli
-  # - hdf5tools
-  # - pytables
-  # - pip
-  - pip:
-    - --force-reinstall --no-cache-dir git+https://github.com/uw-ssec/braingeneerspy.git@update_repo#egg=braingeneers[data,iot,analysis,ml,hengenlab]
+  - python>=3.10
+  - jupyterlab-git
+  - wget
+  - curl
+  - ncdu
+  - ffmpeg
+  - rclone
+  - awscli
+  - hdf5tools
+  - pytables
+  - pip
+  # - pip:
+  #   - --force-reinstall --no-cache-dir git+https://github.com/uw-ssec/braingeneerspy.git@update_repo#egg=braingeneers[data,iot,analysis,ml,hengenlab]
