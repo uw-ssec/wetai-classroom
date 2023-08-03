@@ -3,28 +3,28 @@
 {
 	"name": "Anaconda (Python 3)",
 	"image": "mcr.microsoft.com/devcontainers/anaconda:0-3",
-	"features": {
-		"ghcr.io/devcontainers/features/anaconda:1": {
-			"version": "latest"
-		},
-		"ghcr.io/devcontainers/features/python:1": {
-			"installTools": true,
-			"installJupyterlab": true,
-			"version": "latest"
-		},
-		"ghcr.io/devcontainers/features/common-utils:2": {
-      			"version": "latest"
-		}
-	},
-	"customizations": {
-		"vscode": {
-			"extensions": [
-				"ms-azuretools.vscode-docker",
-				"ms-toolsai.jupyter"
-				// "ms-toolsai.jupyter-renderers"
-			]
-		}
-	},
+	//"features": {
+	//	"ghcr.io/devcontainers/features/anaconda:1": {
+	//		"version": "latest"
+	//	},
+	//	"ghcr.io/devcontainers/features/python:1": {
+	//		"installTools": true,
+	//		"installJupyterlab": true,
+	//		"version": "latest"
+	//	},
+	//	"ghcr.io/devcontainers/features/common-utils:2": {
+      	//		"version": "latest"
+	//	}
+	//},
+	//"customizations": {
+	//	"vscode": {
+	//		"extensions": [
+	//			"ms-azuretools.vscode-docker",
+	//			"ms-toolsai.jupyter"
+	//			// "ms-toolsai.jupyter-renderers"
+	//		]
+	//	}
+	//},
 	"postCreateCommand": "sh .devcontainer/post_create.sh"
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
