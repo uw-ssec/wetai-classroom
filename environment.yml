@@ -1,7 +1,6 @@
-name: international-deploy
+
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - python>=3.10
   - jupyterlab-git
@@ -15,4 +14,4 @@ dependencies:
   - pytables
   - pip
   - pip:
-    - --force-reinstall --no-cache-dir git+https://github.com/uw-ssec/braingeneerspy.git@update_repo#egg=braingeneers[data,iot,analysis,ml,hengenlab]
+    - git+https://github.com/uw-ssec/braingeneerspy.git@update_repo#egg=braingeneers[data,iot,analysis,ml,hengenlab]
