@@ -14,4 +14,4 @@ dependencies:
   - pytables
   - pip
   - pip:
-    - git+https://github.com/uw-ssec/braingeneerspy.git@update_repo#egg=braingeneers[data,iot,analysis,ml,hengenlab]
+    - git+https://github.com/uw-ssec/braingeneerspy.git#egg=braingeneers[data,iot,analysis,ml,hengenlab]
