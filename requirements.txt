@@ -1,1 +1,0 @@
-git+https://github.com/uw-ssec/braingeneerspy.git#egg=braingeneers[data,iot,analysis,ml,hengenlab]
