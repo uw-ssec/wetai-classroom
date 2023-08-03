@@ -2,7 +2,7 @@ name: international-deploy
 channels:
   # - conda-forge
   # - defaults
-# dependencies:
+dependencies:
 #   - python>=3.10
 #   - jupyterlab-git
 #   - wget
