@@ -2,7 +2,7 @@
 // README at: https://github.com/devcontainers/templates/tree/main/src/anaconda
 {
 	"name": "Anaconda (Python 3)",
-	"image": "mcr.microsoft.com/devcontainers/anaconda:0-3",
+	"image": "docker.io/pangeo/base-image:2023.07.05",
 	//"features": {
 	//	"ghcr.io/devcontainers/features/anaconda:1": {
 	//		"version": "latest"
