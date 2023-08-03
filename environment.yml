@@ -13,5 +13,3 @@ dependencies:
   - hdf5tools
   - pytables
   - pip
-  - pip:
-    - git+https://github.com/uw-ssec/braingeneerspy.git#egg=braingeneers[data,iot,analysis,ml,hengenlab]
