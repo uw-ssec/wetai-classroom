@@ -6,7 +6,11 @@
 	},
 	"customizations": {
 		"vscode": {
-		  "extensions": ["ms-toolsai.jupyter", "ms-python.python"]
+		  "extensions": [
+			"ms-toolsai.jupyter",
+			"ms-python.python",
+			"ms-vsliveshare.vsliveshare"
+		]
 		}
 	},
 	"postCreateCommand": "sh .devcontainer/post_create.sh"
